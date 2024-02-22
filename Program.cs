@@ -9,6 +9,7 @@
             {
                 new Person("Nicholas", "Mamau", 34),
                 new Person("Ken", "Njuguna", 32),
+                new Person("Ken", "Njuguna", 32),
                 new Person("Ken", "Njenga", 36),
                 new Person("Paul", "Kiprotech", 37),
                 new Person("Isaac", "Soita",37),
