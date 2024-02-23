@@ -11,6 +11,7 @@
                 new Person("Ken", "Njuguna", 32),
                 new Person("Ken", "Njuguna", 32),
                 new Person("Ken", "Njenga", 36),
+                new Person("Ken", "Njenga", 36),
                 new Person("Paul", "Kiprotech", 37),
                 new Person("Isaac", "Soita",37),
                 new Person("James", "Kimani", 44)
