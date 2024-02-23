@@ -8,6 +8,7 @@
             var persons = new List<Person>
             {
                 new Person("Nicholas", "Mamau", 34),
+                new Person("Nicholas", "Mamau", 34),
                 new Person("Ken", "Njuguna", 32),
                 new Person("Ken", "Njuguna", 32),
                 new Person("Ken", "Njenga", 36),
